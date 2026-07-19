@@ -1,0 +1,36 @@
+{
+  "ProductName": "GC140 Left Test LianLi",
+  "DisplayName": "GC140 Left Test - 12 LED",
+  "Brand": "DIY-Nollie",
+  "Type": "Fan",
+  "LedCount": 12,
+
+  "Width": 3,
+  "Height": 12,
+
+  "LedMapping": [
+    0,1,2,3,4,5,6,7,8,9,10,11
+  ],
+
+  "LedCoordinates": [
+    [0,0],
+    [1,1],
+    [2,2],
+    [2,3],
+    [2,4],
+    [2,5],
+    [2,6],
+    [2,7],
+    [2,8],
+    [2,9],
+    [1,10],
+    [0,11]
+  ],
+
+  "LedNames": [
+    "Led1","Led2","Led3","Led4","Led5","Led6",
+    "Led7","Led8","Led9","Led10","Led11","Led12"
+  ],
+
+  "ImageUrl":"https://github.com/JCalado1981/SignalRGB-Nollie-GC140-TriZone/blob/main/images/Components/Nollie%20GC%20140%20Left%20Black%20%20.png"
+}
